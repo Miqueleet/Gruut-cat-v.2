@@ -1,0 +1,607 @@
+acuadora  ə k u ə ð 'ɔ ɾ ə 
+adiafora  ə ð i ə f 'ɔ ɾ ə 
+adjutora  ə d ʒ u t 'ɔ ɾ ə 
+alçadora  ə l s ə ð 'ɔ ɾ ə 
+andadora  ə n d ə ð 'ɔ ɾ ə 
+areocora  ə ɾ ə o k 'ɔ ɾ ə 
+armadora  ə ɾ m ə ð 'ɔ ɾ ə 
+arremora  ə r ə m 'ɔ ɾ ə 
+aspadora  ə s p ə ð 'ɔ ɾ ə 
+atiadora  ə t 'i ə ð 'ɔ ɾ ə 
+atresora  ə t ɾ ə z 'ɔ ɾ ə 
+atuidora  ə t 'u i ð 'ɔ ɾ ə 
+auditora  ə w ð i t 'ɔ ɾ ə 
+autocora  ə w t o k 'ɔ ɾ ə 
+aviadora  ə v 'i ə ð 'ɔ ɾ ə 
+bailaora  b ə j l ə 'ɔ ɾ ə 
+barocora  b ə ɾ o k 'ɔ ɾ ə 
+batedora  b ə t ə ð 'ɔ ɾ ə 
+bavadora  b ə v ə ð 'ɔ ɾ ə 
+beladora  b ə l ə ð 'ɔ ɾ ə 
+besadora  b ə z ə ð 'ɔ ɾ ə 
+bevedora  b ə v ə ð 'ɔ ɾ ə 
+bimotora  b i m o t 'ɔ ɾ ə 
+binadora  b i n ə ð 'ɔ ɾ ə 
+bleidora  b l ə i ð 'ɔ ɾ ə 
+bonidora  b o n i ð 'ɔ ɾ ə 
+botafora  b o t ə f 'ɔ ɾ ə 
+botedora  b o t ə ð 'ɔ ɾ ə 
+boxadora  b o t s ə ð 'ɔ ɾ ə 
+bufadora  b u f ə ð 'ɔ ɾ ə 
+cagadora  k ə ɣ ə ð 'ɔ ɾ ə 
+caladora  k ə l ə ð 'ɔ ɾ ə 
+canefora  k ə n ə f 'ɔ ɾ ə 
+cantaora  k ə n t ə 'ɔ ɾ ə 
+capadora  k ə p ə ð 'ɔ ɾ ə 
+casadora  k ə z ə ð 'ɔ ɾ ə 
+catafora  k ə t ə f 'ɔ ɾ ə 
+cavadora  k ə v ə ð 'ɔ ɾ ə 
+caçadora  k ə s ə ð 'ɔ ɾ ə 
+cerciora  s ə ɾ s i 'ɔ ɾ ə 
+cisadora  s i z ə ð 'ɔ ɾ ə 
+citadora  s i t ə ð 'ɔ ɾ ə 
+coautora  k o ə w t 'ɔ ɾ ə 
+comodora  k o m o ð 'ɔ ɾ ə 
+cosidora  k o z i ð 'ɔ ɾ ə 
+cotadora  k o t ə ð 'ɔ ɾ ə 
+cotutora  k o t u t 'ɔ ɾ ə 
+creadora  k ɾ e ə ð 'ɔ ɾ ə 
+creedora  k ɾ e ə ð 'ɔ ɾ ə 
+criadora  k ɾ i ə ð 'ɔ ɾ ə 
+curadora  k u ɾ ə ð 'ɔ ɾ ə 
+datadora  d ə t ə ð 'ɔ ɾ ə 
+debitora  d ə β i t 'ɔ ɾ ə 
+decisora  d ə s i z 'ɔ ɾ ə 
+decolora  d ə k o l 'ɔ ɾ ə 
+delatora  d ə l ə t 'ɔ ɾ ə 
+desamora  d ə z ə m 'ɔ ɾ ə 
+desflora  d ə s f l 'ɔ ɾ ə 
+desodora  d ə z o ð 'ɔ ɾ ə 
+diaspora  d i ə s p 'ɔ ɾ ə 
+difusora  d i f u z 'ɔ ɾ ə 
+divisora  d i v i z 'ɔ ɾ ə 
+doladora  d o l ə ð 'ɔ ɾ ə 
+domadora  d o m ə ð 'ɔ ɾ ə 
+donadora  d o n ə ð 'ɔ ɾ ə 
+dopadora  d o p ə ð 'ɔ ɾ ə 
+dotadora  d o t ə ð 'ɔ ɾ ə 
+duradora  d u ɾ ə ð 'ɔ ɾ ə 
+edulcora  ə ð u l k 'ɔ ɾ ə 
+efectora  ə f ə t t 'ɔ ɾ ə 
+eixamora  ə ʃ ə m 'ɔ ɾ ə 
+eixidora  ə ʃ i ð 'ɔ ɾ ə 
+electora  ə l ə t t 'ɔ ɾ ə 
+eleonora  ə l ə o n 'ɔ ɾ ə 
+emissora  ə m i s 'ɔ ɾ ə 
+enarbora  ə n ə ɾ β 'ɔ ɾ ə 
+entafora  ə n t ə f 'ɔ ɾ ə 
+erectora  ə ɾ ə t t 'ɔ ɾ ə 
+erradora  ə r ə ð 'ɔ ɾ ə 
+estisora  ə s t i z 'ɔ ɾ ə 
+exactora  ə t s ə t t 'ɔ ɾ ə 
+exospora  ə t s o s p 'ɔ ɾ ə 
+fadadora  f ə ð ə ð 'ɔ ɾ ə 
+femadora  f ə m ə ð 'ɔ ɾ ə 
+feridora  f ə ɾ i ð 'ɔ ɾ ə 
+filadora  f i l ə ð 'ɔ ɾ ə 
+fitadora  f i t ə ð 'ɔ ɾ ə 
+fixadora  f i t s ə ð 'ɔ ɾ ə 
+flectora  f l ə t t 'ɔ ɾ ə 
+folivora  f o l i v 'ɔ ɾ ə 
+fonadora  f o n ə ð 'ɔ ɾ ə 
+fonedora  f o n ə ð 'ɔ ɾ ə 
+fumadora  f u m ə ð 'ɔ ɾ ə 
+fumivora  f u m i v 'ɔ ɾ ə 
+gasadora  g ə z ə ð 'ɔ ɾ ə 
+geladora  ʒ ə l ə ð 'ɔ ɾ ə 
+genitora  ʒ ə n i t 'ɔ ɾ ə 
+giradora  ʒ i ɾ ə ð 'ɔ ɾ ə 
+guiadora  g i ə ð 'ɔ ɾ ə 
+havedora  ə v ə ð 'ɔ ɾ ə 
+incolora  i ŋ k o l 'ɔ ɾ ə 
+indolora  i n d o l 'ɔ ɾ ə 
+insonora  i n s o n 'ɔ ɾ ə 
+invasora  i n v ə z 'ɔ ɾ ə 
+jugadora  ʒ u ɣ ə ð 'ɔ ɾ ə 
+juradora  ʒ u ɾ ə ð 'ɔ ɾ ə 
+lacadora  l ə k ə ð 'ɔ ɾ ə 
+lavadora  l ə v ə ð 'ɔ ɾ ə 
+lecanora  l ə k ə n 'ɔ ɾ ə 
+lloadora  ʎ o ə ð 'ɔ ɾ ə 
+locutora  l o k u t 'ɔ ɾ ə 
+mamadora  m ə m ə ð 'ɔ ɾ ə 
+manadora  m ə n ə ð 'ɔ ɾ ə 
+matadora  m ə t ə ð 'ɔ ɾ ə 
+menadora  m ə n ə ð 'ɔ ɾ ə 
+metafora  m ə t ə f 'ɔ ɾ ə 
+minadora  m i n ə ð 'ɔ ɾ ə 
+miradora  m i ɾ ə ð 'ɔ ɾ ə 
+mocadora  m o k ə ð 'ɔ ɾ ə 
+mofadora  m o f ə ð 'ɔ ɾ ə 
+moladora  m o l ə ð 'ɔ ɾ ə 
+moledora  m o l ə ð 'ɔ ɾ ə 
+monitora  m o n i t 'ɔ ɾ ə 
+moridora  m o ɾ i ð 'ɔ ɾ ə 
+nadadora  n ə ð ə ð 'ɔ ɾ ə 
+nedadora  n ə ð ə ð 'ɔ ɾ ə 
+negadora  n ə ɣ ə ð 'ɔ ɾ ə 
+novadora  n o v ə ð 'ɔ ɾ ə 
+novatora  n o v ə t 'ɔ ɾ ə 
+nugadora  n u ɣ ə ð 'ɔ ɾ ə 
+obeidora  o β ə i ð 'ɔ ɾ ə 
+obradora  o β ɾ ə ð 'ɔ ɾ ə 
+obridora  o β ɾ i ð 'ɔ ɾ ə 
+occidora  o t s i ð 'ɔ ɾ ə 
+ofensora  o f ə n s 'ɔ ɾ ə 
+ofertora  o f ə ɾ t 'ɔ ɾ ə 
+omnivora  o m n i v 'ɔ ɾ ə 
+ordidora  o ɾ ð i ð 'ɔ ɾ ə 
+orladora  o ɾ l ə ð 'ɔ ɾ ə 
+ossivora  o s i v 'ɔ ɾ ə 
+pagadora  p ə ɣ ə ð 'ɔ ɾ ə 
+paradora  p ə ɾ ə ð 'ɔ ɾ ə 
+paridora  p ə ɾ i ð 'ɔ ɾ ə 
+patidora  p ə t i ð 'ɔ ɾ ə 
+pecadora  p ə k ə ð 'ɔ ɾ ə 
+peladora  p ə l ə ð 'ɔ ɾ ə 
+pesadora  p ə z ə ð 'ɔ ɾ ə 
+petadora  p ə t ə ð 'ɔ ɾ ə 
+picadora  p i k ə ð 'ɔ ɾ ə 
+pirofora  p i ɾ o f 'ɔ ɾ ə 
+pixadora  p i ʃ ə ð 'ɔ ɾ ə 
+podadora  p o ð ə ð 'ɔ ɾ ə 
+policora  p o l i k 'ɔ ɾ ə 
+polidora  p o l i ð 'ɔ ɾ ə 
+ponedora  p o n ə ð 'ɔ ɾ ə 
+posadora  p o z ə ð 'ɔ ɾ ə 
+pouadora  p o w ə ð 'ɔ ɾ ə 
+prensora  p ɾ ə n s 'ɔ ɾ ə 
+prespora  p ɾ ə s p 'ɔ ɾ ə 
+pujadora  p u ʒ ə ð 'ɔ ɾ ə 
+punidora  p u n i ð 'ɔ ɾ ə 
+rapadora  r ə p ə ð 'ɔ ɾ ə 
+rapidora  r ə p i ð 'ɔ ɾ ə 
+rasadora  r ə z ə ð 'ɔ ɾ ə 
+ratadora  r ə t ə ð 'ɔ ɾ ə 
+rebedora  r ə β ə ð 'ɔ ɾ ə 
+regadora  r ə ɣ ə ð 'ɔ ɾ ə 
+regidora  r ə ʒ i ð 'ɔ ɾ ə 
+reladora  r ə l ə ð 'ɔ ɾ ə 
+relatora  r ə l ə t 'ɔ ɾ ə 
+remadora  r ə m ə ð 'ɔ ɾ ə 
+rememora  r ə m ə m 'ɔ ɾ ə 
+resadora  r ə z ə ð 'ɔ ɾ ə 
+revalora  r ə v ə l 'ɔ ɾ ə 
+revisora  r ə v i z 'ɔ ɾ ə 
+ripadora  r i p ə ð 'ɔ ɾ ə 
+robadora  r o β ə ð 'ɔ ɾ ə 
+rodadora  r o ð ə ð 'ɔ ɾ ə 
+sabedora  s ə β ə ð 'ɔ ɾ ə 
+sacadora  s ə k ə ð 'ɔ ɾ ə 
+saladora  s ə l ə ð 'ɔ ɾ ə 
+sanadora  s ə n ə ð 'ɔ ɾ ə 
+sapadora  s ə p ə ð 'ɔ ɾ ə 
+secadora  s ə k ə ð 'ɔ ɾ ə 
+segadora  s ə ɣ ə ð 'ɔ ɾ ə 
+seiedora  s ə j ə ð 'ɔ ɾ ə 
+senadora  s ə n ə ð 'ɔ ɾ ə 
+sonadora  s o n ə ð 'ɔ ɾ ə 
+sopadora  s o p ə ð 'ɔ ɾ ə 
+sumadora  s u m ə ð 'ɔ ɾ ə 
+taladora  t ə l ə ð 'ɔ ɾ ə 
+tapadora  t ə p ə ð 'ɔ ɾ ə 
+taxadora  t ə t s ə ð 'ɔ ɾ ə 
+temedora  t ə m ə ð 'ɔ ɾ ə 
+tenedora  t ə n ə ð 'ɔ ɾ ə 
+tenidora  t ə n i ð 'ɔ ɾ ə 
+tiradora  t i ɾ ə ð 'ɔ ɾ ə 
+tocadora  t o k ə ð 'ɔ ɾ ə 
+tomadora  t o m ə ð 'ɔ ɾ ə 
+tonedora  t o n ə ð 'ɔ ɾ ə 
+topadora  t o p ə ð 'ɔ ɾ ə 
+tractora  t ɾ ə t t 'ɔ ɾ ə 
+traedora  t ɾ ə ə ð 'ɔ ɾ ə 
+traidora  t ɾ ə i ð 'ɔ ɾ ə 
+triadora  t ɾ i ə ð 'ɔ ɾ ə 
+triflora  t ɾ i f l 'ɔ ɾ ə 
+ungidora  u n ʒ i ð 'ɔ ɾ ə 
+uniflora  u n i f l 'ɔ ɾ ə 
+untadora  u n t ə ð 'ɔ ɾ ə 
+valedora  v ə l ə ð 'ɔ ɾ ə 
+varadora  v ə ɾ ə ð 'ɔ ɾ ə 
+venedora  v ə n ə ð 'ɔ ɾ ə 
+abatedora  ə β ə t ə ð 'ɔ ɾ ə 
+abatidora  ə β ə t i ð 'ɔ ɾ ə 
+abductora  ə β ð 'u t t 'ɔ ɾ ə 
+abocadora  ə β o k ə ð 'ɔ ɾ ə 
+abolidora  ə β o l i ð 'ɔ ɾ ə 
+abonadora  ə β o n ə ð 'ɔ ɾ ə 
+abusadora  ə β u z ə ð 'ɔ ɾ ə 
+acabadora  ə k ə β ə ð 'ɔ ɾ ə 
+acanadora  ə k ə n ə ð 'ɔ ɾ ə 
+acaçadora  ə k ə s ə ð 'ɔ ɾ ə 
+acoradora  ə k o ɾ ə ð 'ɔ ɾ ə 
+acubadora  ə k u β ə ð 'ɔ ɾ ə 
+acusadora  ə k u z ə ð 'ɔ ɾ ə 
+adductora  ə ð ð 'u t t 'ɔ ɾ ə 
+adobadora  ə ð o β ə ð 'ɔ ɾ ə 
+adoradora  ə ð o ɾ ə ð 'ɔ ɾ ə 
+aduladora  ə ð u l ə ð 'ɔ ɾ ə 
+aesmadora  ə 'ə z m ə ð 'ɔ ɾ ə 
+afanadora  ə f ə n ə ð 'ɔ ɾ ə 
+afegidora  ə f ə ʒ i ð 'ɔ ɾ ə 
+afiladora  ə f i l ə ð 'ɔ ɾ ə 
+afinadora  ə f i n ə ð 'ɔ ɾ ə 
+aforadora  ə f o ɾ ə ð 'ɔ ɾ ə 
+agafadora  ə ɣ ə f ə ð 'ɔ ɾ ə 
+agitadora  ə ʒ i t ə ð 'ɔ ɾ ə 
+agressora  ə ɣ ɾ ə s 'ɔ ɾ ə 
+agusadora  ə ɣ u z ə ð 'ɔ ɾ ə 
+ahucadora  ə ɣ k ə ð 'ɔ ɾ ə 
+ailladora  ə j ʎ ə ð 'ɔ ɾ ə 
+ajudadora  ə ʒ u ð ə ð 'ɔ ɾ ə 
+alabadora  ə l ə β ə ð 'ɔ ɾ ə 
+alcandora  ə l k ə n d 'ɔ ɾ ə 
+al·locora  ə l o k 'ɔ ɾ ə 
+amagadora  ə m ə ɣ ə ð 'ɔ ɾ ə 
+amaradora  ə m ə ɾ ə ð 'ɔ ɾ ə 
+ambladora  ə m b l ə ð 'ɔ ɾ ə 
+ameladora  ə m ə l ə ð 'ɔ ɾ ə 
+ameradora  ə m ə ɾ ə ð 'ɔ ɾ ə 
+amidadora  ə m i ð ə ð 'ɔ ɾ ə 
+ampradora  ə m p ɾ ə ð 'ɔ ɾ ə 
+ancessora  ə n s ə s 'ɔ ɾ ə 
+anemocora  ə n ə m o k 'ɔ ɾ ə 
+animadora  ə n i m ə ð 'ɔ ɾ ə 
+anotadora  ə n o t ə ð 'ɔ ɾ ə 
+apagadora  ə p ə ɣ ə ð 'ɔ ɾ ə 
+apamadora  ə p ə m ə ð 'ɔ ɾ ə 
+aparadora  ə p ə ɾ ə ð 'ɔ ɾ ə 
+apiladora  ə p i l ə ð 'ɔ ɾ ə 
+arenadora  ə ɾ ə n ə ð 'ɔ ɾ ə 
+arguidora  ə ɾ ɣ i ð 'ɔ ɾ ə 
+arriadora  ə r 'i ə ð 'ɔ ɾ ə 
+ascladora  ə s k l ə ð 'ɔ ɾ ə 
+ascospora  ə s k o s p 'ɔ ɾ ə 
+aspiadora  ə s p 'i ə ð 'ɔ ɾ ə 
+assertora  ə s ə ɾ t 'ɔ ɾ ə 
+assessora  ə s ə s 'ɔ ɾ ə 
+atenedora  ə t ə n ə ð 'ɔ ɾ ə 
+atipadora  ə t i p ə ð 'ɔ ɾ ə 
+aturadora  ə t u ɾ ə ð 'ɔ ɾ ə 
+autospora  ə w t o s p 'ɔ ɾ ə 
+auxospora  ə w t s o s p 'ɔ ɾ ə 
+avaladora  ə v ə l ə ð 'ɔ ɾ ə 
+avisadora  ə v i z ə ð 'ɔ ɾ ə 
+avivadora  ə v i v ə ð 'ɔ ɾ ə 
+baccivora  b ə t s i v 'ɔ ɾ ə 
+baldadora  b ə l d ə ð 'ɔ ɾ ə 
+balladora  b ə ʎ ə ð 'ɔ ɾ ə 
+banyadora  b ə ɲ ə ð 'ɔ ɾ ə 
+battifora  b ə t t i f 'ɔ ɾ ə 
+bausadora  b ə w z ə ð 'ɔ ɾ ə 
+birbadora  b i ɾ β ə ð 'ɔ ɾ ə 
+bisectora  b i z ə t t 'ɔ ɾ ə 
+blocadora  b l o k ə ð 'ɔ ɾ ə 
+bolladora  b o ʎ ə ð 'ɔ ɾ ə 
+bordadora  b o ɾ ð ə ð 'ɔ ɾ ə 
+bramadora  b ɾ ə m ə ð 'ɔ ɾ ə 
+bregadora  b ɾ ə ɣ ə ð 'ɔ ɾ ə 
+brodadora  b ɾ o ð ə ð 'ɔ ɾ ə 
+brogidora  b ɾ o ʒ i ð 'ɔ ɾ ə 
+bromadora  b ɾ o m ə ð 'ɔ ɾ ə 
+brumidora  b ɾ u m i ð 'ɔ ɾ ə 
+brunidora  b ɾ u n i ð 'ɔ ɾ ə 
+buidadora  b u j ð ə ð 'ɔ ɾ ə 
+bullidora  b u ʎ i ð 'ɔ ɾ ə 
+burladora  b u ɾ l ə ð 'ɔ ɾ ə 
+burxadora  b u ɾ ʃ ə ð 'ɔ ɾ ə 
+buscadora  b u s k ə ð 'ɔ ɾ ə 
+calcadora  k ə l k ə ð 'ɔ ɾ ə 
+calfadora  k ə l f ə ð 'ɔ ɾ ə 
+calçadora  k ə l s ə ð 'ɔ ɾ ə 
+cantadora  k ə n t ə ð 'ɔ ɾ ə 
+captadora  k ə t t ə ð 'ɔ ɾ ə 
+carbabora  k ə ɾ β ə β 'ɔ ɾ ə 
+cardadora  k ə ɾ ð ə ð 'ɔ ɾ ə 
+carnivora  k ə ɾ n i v 'ɔ ɾ ə 
+carradora  k ə r ə ð 'ɔ ɾ ə 
+cascadora  k ə s k ə ð 'ɔ ɾ ə 
+causadora  k ə w z ə ð 'ɔ ɾ ə 
+cenyidora  s ə ɲ i ð 'ɔ ɾ ə 
+cercadora  s ə ɾ k ə ð 'ɔ ɾ ə 
+cernedora  s ə ɾ n ə ð 'ɔ ɾ ə 
+clamadora  k l ə m ə ð 'ɔ ɾ ə 
+clavadora  k l ə v ə ð 'ɔ ɾ ə 
+cobertora  k o β ə ɾ t 'ɔ ɾ ə 
+cobradora  k o β ɾ ə ð 'ɔ ɾ ə 
+codeutora  k o ð ə w t 'ɔ ɾ ə 
+coeditora  k o ə ð i t 'ɔ ɾ ə 
+cofiadora  k o f 'i ə ð 'ɔ ɾ ə 
+cogestora  k o ʒ ə s t 'ɔ ɾ ə 
+collidora  k o ʎ i ð 'ɔ ɾ ə 
+colpidora  k o l p i ð 'ɔ ɾ ə 
+colradora  k o l ɾ ə ð 'ɔ ɾ ə 
+commemora  k o m m ə m 'ɔ ɾ ə 
+condecora  k o n d ə k 'ɔ ɾ ə 
+conradora  k o n ɾ ə ð 'ɔ ɾ ə 
+copiadora  k o p 'i ə ð 'ɔ ɾ ə 
+copsadora  k o t s ə ð 'ɔ ɾ ə 
+corbadora  k o ɾ β ə ð 'ɔ ɾ ə 
+corredora  k o r ə ð 'ɔ ɾ ə 
+corrobora  k o r o β 'ɔ ɾ ə 
+creditora  k ɾ ə ð i t 'ɔ ɾ ə 
+cremadora  k ɾ ə m ə ð 'ɔ ɾ ə 
+cridadora  k ɾ i ð ə ð 'ɔ ɾ ə 
+cuidadora  k u j ð ə ð 'ɔ ɾ ə 
+dalladora  d ə ʎ ə ð 'ɔ ɾ ə 
+dansadora  d ə n s ə ð 'ɔ ɾ ə 
+dauradora  d ə w ɾ ə ð 'ɔ ɾ ə 
+defensora  d ə f ə n s 'ɔ ɾ ə 
+deixadora  d ə ʃ ə ð 'ɔ ɾ ə 
+dentadora  d ə n t ə ð 'ɔ ɾ ə 
+desancora  d ə z ə ŋ k 'ɔ ɾ ə 
+desarbora  d ə z ə ɾ β 'ɔ ɾ ə 
+descolora  d ə s k o l 'ɔ ɾ ə 
+desenyora  d ə z ə ɲ 'ɔ ɾ ə 
+desertora  d ə z ə ɾ t 'ɔ ɾ ə 
+desestora  d 'ə z ə s t 'ɔ ɾ ə 
+deshonora  d ə z o n 'ɔ ɾ ə 
+desvalora  d ə z v ə l 'ɔ ɾ ə 
+desvapora  d ə z v ə p 'ɔ ɾ ə 
+detectora  d ə t ə t t 'ɔ ɾ ə 
+detentora  d ə t ə n t 'ɔ ɾ ə 
+deteriora  d ə t ə ɾ i 'ɔ ɾ ə 
+dictadora  d i t t ə ð 'ɔ ɾ ə 
+directora  d i ɾ ə t t 'ɔ ɾ ə 
+discofora  d i s k o f 'ɔ ɾ ə 
+discolora  d i s k o l 'ɔ ɾ ə 
+dobladora  d o β l ə ð 'ɔ ɾ ə 
+dormidora  d o ɾ m i ð 'ɔ ɾ ə 
+dragadora  d ɾ ə ɣ ə ð 'ɔ ɾ ə 
+eciospora  ə s i o s p 'ɔ ɾ ə 
+educadora  ə ð u k ə ð 'ɔ ɾ ə 
+efractora  ə f ɾ ə t t 'ɔ ɾ ə 
+elevadora  ə l ə v ə ð 'ɔ ɾ ə 
+empenyora  ə m p ə ɲ 'ɔ ɾ ə 
+empitjora  ə m p i d ʒ 'ɔ ɾ ə 
+empolvora  ə m p o l v 'ɔ ɾ ə 
+emuladora  ə m u l ə ð 'ɔ ɾ ə 
+endospora  ə n d o s p 'ɔ ɾ ə 
+enfredora  ə n f ɾ ə ð 'ɔ ɾ ə 
+entradora  ə n t ɾ ə ð 'ɔ ɾ ə 
+entrevora  ə n t ɾ ə v 'ɔ ɾ ə 
+erejadora  ə ɾ ə ʒ ə ð 'ɔ ɾ ə 
+ereradora  ə ɾ ə ɾ ə ð 'ɔ ɾ ə 
+escorpora  ə s k o ɾ p 'ɔ ɾ ə 
+escultora  ə s k 'u l t 'ɔ ɾ ə 
+esvaidora  ə z v ə j ð 'ɔ ɾ ə 
+evocadora  ə v o k ə ð 'ɔ ɾ ə 
+excretora  ə t s k ɾ ə t 'ɔ ɾ ə 
+executora  ə t s ə k u t 'ɔ ɾ ə 
+expectora  ə t s p ə t t 'ɔ ɾ ə 
+expiadora  ə t s p 'i ə ð 'ɔ ɾ ə 
+expulsora  ə t s p u l s 'ɔ ɾ ə 
+extensora  ə t t ə n s 'ɔ ɾ ə 
+extintora  ə t t 'i n t 'ɔ ɾ ə 
+extrusora  ə t s t ɾ u z 'ɔ ɾ ə 
+faenadora  f ə ə n ə ð 'ɔ ɾ ə 
+faixadora  f ə ʃ ə ð 'ɔ ɾ ə 
+falsadora  f ə l s ə ð 'ɔ ɾ ə 
+fangadora  f ə ŋ g ə ð 'ɔ ɾ ə 
+feinadora  f ə j n ə ð 'ɔ ɾ ə 
+fenyedora  f ə ɲ ə ð 'ɔ ɾ ə 
+ferradora  f ə r ə ð 'ɔ ɾ ə 
+filmadora  f i l m ə ð 'ɔ ɾ ə 
+fingidora  f i n ʒ i ð 'ɔ ɾ ə 
+floridora  f l o ɾ i ð 'ɔ ɾ ə 
+foliadora  f o l 'i ə ð 'ɔ ɾ ə 
+folladora  f o ʎ ə ð 'ɔ ɾ ə 
+forjadora  f o ɾ ʒ ə ð 'ɔ ɾ ə 
+formadora  f o ɾ m ə ð 'ɔ ɾ ə 
+fornidora  f o ɾ n i ð 'ɔ ɾ ə 
+forçadora  f o ɾ s ə ð 'ɔ ɾ ə 
+fregadora  f ɾ ə ɣ ə ð 'ɔ ɾ ə 
+fregidora  f ɾ ə ʒ i ð 'ɔ ɾ ə 
+frenadora  f ɾ ə n ə ð 'ɔ ɾ ə 
+fresadora  f ɾ ə z ə ð 'ɔ ɾ ə 
+frisadora  f ɾ i z ə ð 'ɔ ɾ ə 
+frugivora  f ɾ u ʒ i v 'ɔ ɾ ə 
+fundadora  f u n d ə ð 'ɔ ɾ ə 
+furgadora  f u ɾ ɣ ə ð 'ɔ ɾ ə 
+furtadora  f u ɾ t ə ð 'ɔ ɾ ə 
+fussadora  f u s ə ð 'ɔ ɾ ə 
+galiadora  g ə l 'i ə ð 'ɔ ɾ ə 
+garladora  g ə ɾ l ə ð 'ɔ ɾ ə 
+gastadora  g ə s t ə ð 'ɔ ɾ ə 
+gaudidora  g ə w ð i ð 'ɔ ɾ ə 
+gebradora  ʒ ə β ɾ ə ð 'ɔ ɾ ə 
+glaçadora  g l ə s ə ð 'ɔ ɾ ə 
+glosadora  g l o z ə ð 'ɔ ɾ ə 
+gofradora  g o f ɾ ə ð 'ɔ ɾ ə 
+granivora  g ɾ ə n i v 'ɔ ɾ ə 
+grapadora  g ɾ ə p ə ð 'ɔ ɾ ə 
+gratadora  g ɾ ə t ə ð 'ɔ ɾ ə 
+gravadora  g ɾ ə v ə ð 'ɔ ɾ ə 
+guaridora  g w ə ɾ i ð 'ɔ ɾ ə 
+herbivora  ə ɾ β i v 'ɔ ɾ ə 
+hidrocora  i ð ɾ o k 'ɔ ɾ ə 
+honradora  o n ɾ ə ð 'ɔ ɾ ə 
+imitadora  i m i t ə ð 'ɔ ɾ ə 
+immersora  i m m ə ɾ s 'ɔ ɾ ə 
+impostora  i m p o s t 'ɔ ɾ ə 
+impulsora  i m p u l s 'ɔ ɾ ə 
+incorpora  i ŋ k o ɾ p 'ɔ ɾ ə 
+inductora  i n d 'u t t 'ɔ ɾ ə 
+infladora  i n f l ə ð 'ɔ ɾ ə 
+inventora  i n v ə n t 'ɔ ɾ ə 
+inversora  i n v ə ɾ s 'ɔ ɾ ə 
+irruptora  i r 'u t t 'ɔ ɾ ə 
+isoladora  i z o l ə ð 'ɔ ɾ ə 
+jactadora  ʒ ə t t ə ð 'ɔ ɾ ə 
+junyidora  ʒ u ɲ i ð 'ɔ ɾ ə 
+lactivora  l ə t t i v 'ɔ ɾ ə 
+liftadora  l i f t ə ð 'ɔ ɾ ə 
+linxadora  l i n ʃ ə ð 'ɔ ɾ ə 
+liquadora  l i k w ə ð 'ɔ ɾ ə 
+llatadora  ʎ ə t ə ð 'ɔ ɾ ə 
+llavadora  ʎ ə v ə ð 'ɔ ɾ ə 
+llecadora  ʎ ə k ə ð 'ɔ ɾ ə 
+llegidora  ʎ ə ʒ i ð 'ɔ ɾ ə 
+llepadora  ʎ ə p ə ð 'ɔ ɾ ə 
+llevadora  ʎ ə v ə ð 'ɔ ɾ ə 
+lligadora  ʎ i ɣ ə ð 'ɔ ɾ ə 
+llimadora  ʎ i m ə ð 'ɔ ɾ ə 
+lliçadora  ʎ i s ə ð 'ɔ ɾ ə 
+llogadora  ʎ o ɣ ə ð 'ɔ ɾ ə 
+madrepora  m ə ð ɾ ə p 'ɔ ɾ ə 
+maleidora  m ə l ə i ð 'ɔ ɾ ə 
+manticora  m ə n t i k 'ɔ ɾ ə 
+manxadora  m ə n ʃ ə ð 'ɔ ɾ ə 
+marcadora  m ə ɾ k ə ð 'ɔ ɾ ə 
+marxadora  m ə ɾ ʃ ə ð 'ɔ ɾ ə 
+mauladora  m ə w l ə ð 'ɔ ɾ ə 
+mediadora  m ə ð 'i ə ð 'ɔ ɾ ə 
+megaspora  m 'ə ɣ ə s p 'ɔ ɾ ə 
+menjadora  m ə n ʒ ə ð 'ɔ ɾ ə 
+mentidora  m ə n t i ð 'ɔ ɾ ə 
+migradora  m i ɣ ɾ ə ð 'ɔ ɾ ə 
+minvadora  m i n v ə ð 'ɔ ɾ ə 
+mioladora  m i o l ə ð 'ɔ ɾ ə 
+mulladora  m u ʎ ə ð 'ɔ ɾ ə 
+muntadora  m u n t ə ð 'ɔ ɾ ə 
+munyidora  m u ɲ i ð 'ɔ ɾ ə 
+naixedora  n ə ʃ ə ð 'ɔ ɾ ə 
+narradora  n ə r ə ð 'ɔ ɾ ə 
+nodridora  n o ð ɾ i ð 'ɔ ɾ ə 
+objectora  o β ʒ ə t t 'ɔ ɾ ə 
+ocupadora  o k u p ə ð 'ɔ ɾ ə 
+ofegadora  o f ə ɣ ə ð 'ɔ ɾ ə 
+ofenedora  o f ə n ə ð 'ɔ ɾ ə 
+oferidora  o f ə ɾ i ð 'ɔ ɾ ə 
+oloradora  o l o ɾ ə ð 'ɔ ɾ ə 
+operadora  o p ə ɾ ə ð 'ɔ ɾ ə 
+opositora  o p o z i t 'ɔ ɾ ə 
+opressora  o p ɾ ə s 'ɔ ɾ ə 
+palpadora  p ə l p ə ð 'ɔ ɾ ə 
+parladora  p ə ɾ l ə ð 'ɔ ɾ ə 
+partidora  p ə ɾ t i ð 'ɔ ɾ ə 
+passadora  p ə s ə ð 'ɔ ɾ ə 
+pastadora  p ə s t ə ð 'ɔ ɾ ə 
+pensadora  p ə n s ə ð 'ɔ ɾ ə 
+perdedora  p ə ɾ ð ə ð 'ɔ ɾ ə 
+perxadora  p ə ɾ ʃ ə ð 'ɔ ɾ ə 
+pescadora  p ə s k ə ð 'ɔ ɾ ə 
+piafadora  p i ə f ə ð 'ɔ ɾ ə 
+pinsadora  p i n s ə ð 'ɔ ɾ ə 
+pintadora  p i n t ə ð 'ɔ ɾ ə 
+pinçadora  p i n s ə ð 'ɔ ɾ ə 
+piscivora  p i t s i v 'ɔ ɾ ə 
+pitjadora  p i d ʒ ə ð 'ɔ ɾ ə 
+piuladora  p i w l ə ð 'ɔ ɾ ə 
+placadora  p l ə k ə ð 'ɔ ɾ ə 
+planadora  p l ə n ə ð 'ɔ ɾ ə 
+plegadora  p l ə ɣ ə ð 'ɔ ɾ ə 
+plisadora  p l i z ə ð 'ɔ ɾ ə 
+ploradora  p l o ɾ ə ð 'ɔ ɾ ə 
+plovedora  p l o v ə ð 'ɔ ɾ ə 
+pobladora  p o β l ə ð 'ɔ ɾ ə 
+polsadora  p o l s ə ð 'ɔ ɾ ə 
+porgadora  p o ɾ ɣ ə ð 'ɔ ɾ ə 
+portadora  p o ɾ t ə ð 'ɔ ɾ ə 
+predadora  p ɾ ə ð ə ð 'ɔ ɾ ə 
+pregadora  p ɾ ə ɣ ə ð 'ɔ ɾ ə 
+prenedora  p ɾ ə n ə ð 'ɔ ɾ ə 
+previsora  p ɾ ə v i z 'ɔ ɾ ə 
+prisadora  p ɾ i z ə ð 'ɔ ɾ ə 
+promotora  p ɾ o m o t 'ɔ ɾ ə 
+pronadora  p ɾ o n ə ð 'ɔ ɾ ə 
+prosadora  p ɾ o z ə ð 'ɔ ɾ ə 
+protutora  p ɾ o t u t 'ɔ ɾ ə 
+provadora  p ɾ o v ə ð 'ɔ ɾ ə 
+provisora  p ɾ o v i z 'ɔ ɾ ə 
+quitadora  k i t ə ð 'ɔ ɾ ə 
+ralladora  r ə ʎ ə ð 'ɔ ɾ ə 
+ramiflora  r ə m i f l 'ɔ ɾ ə 
+raonadora  r ə o n ə ð 'ɔ ɾ ə 
+rascadora  r ə s k ə ð 'ɔ ɾ ə 
+raspadora  r ə s p ə ð 'ɔ ɾ ə 
+raucadora  r ə w k ə ð 'ɔ ɾ ə 
+rebladora  r ə β l ə ð 'ɔ ɾ ə 
+recensora  r ə s ə n s 'ɔ ɾ ə 
+receptora  r ə s ə t t 'ɔ ɾ ə 
+redactora  r ə ð ə t t 'ɔ ɾ ə 
+reductora  r ə ð u t t 'ɔ ɾ ə 
+remissora  r ə m i s 'ɔ ɾ ə 
+rendidora  r ə n d i ð 'ɔ ɾ ə 
+rentadora  r ə n t ə ð 'ɔ ɾ ə 
+reptadora  r ə t t ə ð 'ɔ ɾ ə 
+restadora  r ə s t ə ð 'ɔ ɾ ə 
+reunidora  r ə u n i ð 'ɔ ɾ ə 
+rompedora  r o m p ə ð 'ɔ ɾ ə 
+roncadora  r o ŋ k ə ð 'ɔ ɾ ə 
+rondadora  r o n d ə ð 'ɔ ɾ ə 
+roscadora  r o s k ə ð 'ɔ ɾ ə 
+rostidora  r o s t i ð 'ɔ ɾ ə 
+ruixadora  r u ʃ ə ð 'ɔ ɾ ə 
+rumiadora  r u m 'i ə ð 'ɔ ɾ ə 
+ruscadora  r u s k ə ð 'ɔ ɾ ə 
+sacsadora  s ə t s ə ð 'ɔ ɾ ə 
+sagnadora  s ə n n ə ð 'ɔ ɾ ə 
+saltadora  s ə l t ə ð 'ɔ ɾ ə 
+salvadora  s ə l v ə ð 'ɔ ɾ ə 
+sargidora  s ə ɾ ʒ i ð 'ɔ ɾ ə 
+secretora  s ə k ɾ ə t 'ɔ ɾ ə 
+seductora  s ə ð u t t 'ɔ ɾ ə 
+seguidora  s ə ɣ i ð 'ɔ ɾ ə 
+senyadora  s ə ɲ ə ð 'ɔ ɾ ə 
+serradora  s ə r ə ð 'ɔ ɾ ə 
+servadora  s ə ɾ v ə ð 'ɔ ɾ ə 
+servidora  s ə ɾ v i ð 'ɔ ɾ ə 
+signadora  s i n n ə ð 'ɔ ɾ ə 
+sirgadora  s i ɾ ɣ ə ð 'ɔ ɾ ə 
+siuladora  s i w l ə ð 'ɔ ɾ ə 
+sofridora  s o f ɾ i ð 'ɔ ɾ ə 
+solcadora  s o l k ə ð 'ɔ ɾ ə 
+soldadora  s o l d ə ð 'ɔ ɾ ə 
+soltadora  s o l t ə ð 'ɔ ɾ ə 
+somiadora  s o m 'i ə ð 'ɔ ɾ ə 
+somnadora  s o m n ə ð 'ɔ ɾ ə 
+sorgidora  s o ɾ ʒ i ð 'ɔ ɾ ə 
+sotjadora  s o d ʒ ə ð 'ɔ ɾ ə 
+subpriora  s u β p ɾ i 'ɔ ɾ ə 
+superiora  s u p ə ɾ i 'ɔ ɾ ə 
+suplidora  s u p l i ð 'ɔ ɾ ə 
+talladora  t ə ʎ ə ð 'ɔ ɾ ə 
+tancadora  t ə ŋ k ə ð 'ɔ ɾ ə 
+tapiadora  t ə p 'i ə ð 'ɔ ɾ ə 
+tardadora  t ə ɾ ð ə ð 'ɔ ɾ ə 
+tastadora  t ə s t ə ð 'ɔ ɾ ə 
+tatuadora  t ə t u ə ð 'ɔ ɾ ə 
+tauladora  t ə w l ə ð 'ɔ ɾ ə 
+teixidora  t ə ʃ i ð 'ɔ ɾ ə 
+tenyidora  t ə ɲ i ð 'ɔ ɾ ə 
+testadora  t ə s t ə ð 'ɔ ɾ ə 
+torbadora  t o ɾ β ə ð 'ɔ ɾ ə 
+torcedora  t o ɾ s ə ð 'ɔ ɾ ə 
+tornadora  t o ɾ n ə ð 'ɔ ɾ ə 
+torradora  t o r ə ð 'ɔ ɾ ə 
+toscadora  t o s k ə ð 'ɔ ɾ ə 
+tossadora  t o s ə ð 'ɔ ɾ ə 
+tragadora  t ɾ ə ɣ ə ð 'ɔ ɾ ə 
+tramadora  t ɾ ə m ə ð 'ɔ ɾ ə 
+traçadora  t ɾ ə s ə ð 'ɔ ɾ ə 
+trenadora  t ɾ ə n ə ð 'ɔ ɾ ə 
+trepadora  t ɾ ə p ə ð 'ɔ ɾ ə 
+trimotora  t ɾ i m o t 'ɔ ɾ ə 
+trobadora  t ɾ o β ə ð 'ɔ ɾ ə 
+tronadora  t ɾ o n ə ð 'ɔ ɾ ə 
+trotadora  t ɾ o t ə ð 'ɔ ɾ ə 
+trucadora  t ɾ u k ə ð 'ɔ ɾ ə 
+trufadora  t ɾ u f ə ð 'ɔ ɾ ə 
+tubiflora  t u β i f l 'ɔ ɾ ə 
+udoladora  u ð o l ə ð 'ɔ ɾ ə 
+unfladora  u n f l ə ð 'ɔ ɾ ə 
+vareadora  v ə ɾ e ə ð 'ɔ ɾ ə 
+variadora  v ə ɾ 'i ə ð 'ɔ ɾ ə 
+vencedora  v ə n s ə ð 'ɔ ɾ ə 
