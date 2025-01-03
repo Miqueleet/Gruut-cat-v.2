@@ -1,5 +1,5 @@
 # Gruut-cat-v.2
-![PDF as Image](poster final Miquel (1)-1.png)
+![PDF as Image](poster%20final%20Miquel%20(1)-1.png)
 # ca-gruutv2
 
 # Phonetic Transcriber improvement in Catalan
